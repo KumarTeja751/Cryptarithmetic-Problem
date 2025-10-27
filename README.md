@@ -80,7 +80,7 @@ MONEY = 10652<br>
 <hr>
 
 ### PROGRAM
-```
+```python
 from itertools import permutations
 
 def solve_cryptarithmetic():
